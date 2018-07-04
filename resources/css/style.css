@@ -27,3 +27,8 @@ p {
   font-size: 21px;
   color: Gray;
 }
+
+#footer{
+  text-align: right;
+  padding-right: 120px;
+}
